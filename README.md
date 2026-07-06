@@ -2,7 +2,7 @@ I'm a driven developer who loves pushing the boundaries of what code can do. Gla
 
 ## A Little About Me
 
-I get excited about building real solutions, especially in the world of Artificial Intelligence / Web Development / Native App Development. 🤖💻 Here's what I work with:
+I get excited about building real solutions, especially in the world of Mobile Apps / Web Development / Artificial Intelligence. 🤖💻 Here's what I work with:
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
