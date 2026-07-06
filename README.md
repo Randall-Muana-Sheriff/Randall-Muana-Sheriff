@@ -23,7 +23,7 @@ Take a look through my repos to see what keeps me busy. From kigali-freight-ui t
 
 ## Get in Touch
 
-- 🌐 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/randallmsheriff/)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/randallmsheriff/](https://www.linkedin.com/in/randallmsheriff/)
 - 📧 Email: [your.email@example.com](sherifimran2000@gmail.com)
 
 ## What I'm Up To
