@@ -42,5 +42,5 @@ I truly believe great code can shape a better tomorrow. Stick around, explore, a
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Randall-Muana-Sheriff&theme=radical)
   
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Randall-Muana-Sheriff&theme=radical&layout=compact)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Randall-Muana-Sheriff&theme=radical&layout=pie)
