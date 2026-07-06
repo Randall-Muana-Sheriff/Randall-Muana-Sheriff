@@ -37,6 +37,5 @@ Take a look through my repos to see what keeps me busy. From kigali-freight-ui t
 
 I truly believe great code can shape a better tomorrow. Stick around, explore, and let's build something amazing together! 🚀💡💻
 
-
-![GitHub Stats](https://ghchart.rescript.dev/Randall-Muana-Sheriff)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Randall-Muana-Sheriff&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Randall-Muana-Sheriff&theme=radical)
