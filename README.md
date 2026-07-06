@@ -1,4 +1,4 @@
-### Hey there, I'm Randall! 👋
+### Hey there, I'm Randall 👋
 
 I'm a driven developer who loves pushing the boundaries of what code can do. Glad to have you here on my GitHub page! 🌐✨
 
