@@ -23,8 +23,8 @@ Take a look through my repos to see what keeps me busy. From kigali-freight-ui t
 
 ## Get in Touch
 
-- 🌐 LinkedIn: [https://www.linkedin.com/in/randallmsheriff/](https://www.linkedin.com/in/randallmsheriff/)
-- 📧 Email: [your.email@example.com](sherifimran2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randallmsheriff/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherifimran2000@gmail.com)
 
 ## What I'm Up To
 
