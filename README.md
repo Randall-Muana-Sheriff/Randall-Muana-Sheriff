@@ -16,7 +16,7 @@ Code is basically my second language at this point.
 
 ## Featured Work
 
-Take a look through my repos to see what keeps me busy. From [kigali-freight-ui] to [kigali-freight-router], every project reflects a bit of curiosity and craft. 🚀
+Take a look through my repos to see what keeps me busy. From kigali-freight-ui to kigali-freight-router, every project reflects a bit of curiosity and craft. 🚀
 
 ## Get in Touch
 
