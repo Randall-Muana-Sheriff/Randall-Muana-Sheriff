@@ -33,6 +33,10 @@ Take a look through my repos to see what keeps me busy. From kigali-freight-ui t
 - 🤝 Open to teaming up on projects worth building.
 - 💬 Feel free to reach out about software engineering or AI.
 
+### 🌟 Recent Open Source Contribution
+
+* **[PhysicsHub](https://github.com/physicshub/physicshub.github.io)** ([PR #367](https://github.com/physicshub/physicshub.github.io/pull/367)): Added full Kinyarwanda localization/translation and resolved related bugs to improve accessibility for Kinyarwanda speakers.
+
 ## A Fun Note
 
 I truly believe great code can shape a better tomorrow. Stick around, explore, and let's build something amazing together! 🚀💡💻
